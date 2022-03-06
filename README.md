@@ -2,4 +2,4 @@
 Graphics Project using OpenGL
 
 
-Glut project based on Computer Graphics
+Glut project based on Computer Graphics!
